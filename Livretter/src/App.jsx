@@ -7,7 +7,10 @@ function App() {
   const favMeals = [
     { food: "Pasta" },
     { food: "Omelet" },
-    { food: "Burger" }
+    { food: "Burger" },
+    { food: "Pizza" },
+    { food: "Is"}
+
   ]
 
   return (
