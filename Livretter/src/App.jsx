@@ -15,6 +15,7 @@ function App() {
 
   return (
     <>
+    <h2>Mine Livretter:</h2>
       {favMeals.map((item, index) => {
         return <FavMeals dish={item.food} />
 
